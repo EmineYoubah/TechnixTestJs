@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "65839b9b4cb8f14a282f6da2"
+  },
+  "name": "emine",
+  "lastname": "youbah",
+  "statut": "Actif",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65839be84cb8f14a282f6da4"
+  },
+  "name": "ahmed",
+  "lastname": "sidi",
+  "statut": "Actif",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65839bf74cb8f14a282f6da6"
+  },
+  "name": "amer",
+  "lastname": "bouna",
+  "statut": "Actif",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65839c1b4cb8f14a282f6da8"
+  },
+  "name": "sidi",
+  "lastname": "bouna",
+  "statut": "noActif",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65839d164cb8f14a282f6daa"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65839eab4cb8f14a282f6dac"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65839fa94cb8f14a282f6dae"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583a1444cb8f14a282f6db0"
+  },
+  "name": "ami",
+  "lastname": "jidou",
+  "statut": "Actif",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583a1736a15e59f1d59e0a9"
+  },
+  "name": "mouhamed",
+  "lastname": "jidou",
+  "statut": "Actif",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583a263a48c800d6dfc7c02"
+  },
+  "name": "Amadou",
+  "lastname": "ahmed",
+  "statut": "Actif",
+  "__v": 0
+}]
