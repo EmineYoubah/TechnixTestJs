@@ -1,0 +1,3 @@
+C:\Users\PC\AppData\Roaming\npm
+`-- create-next-app@14.0.4
+
